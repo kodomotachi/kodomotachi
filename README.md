@@ -44,4 +44,10 @@ I'm currently a 2nd-yead student, majoring in Artificial Intelligence. I like so
       src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
     />
   </a>
+
+  <a href="https://www.facebook.com/tranquochuy.2004/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Facebook-5865F2?style=for-the-badge&logo=facebook&logoColor=white"
+    />
+  </a>
 </p>
