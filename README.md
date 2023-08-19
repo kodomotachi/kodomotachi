@@ -4,7 +4,7 @@
 
 <h2 align="center">Just junior developer's Github profile</h2>
 
-Hi there
+### Hi there
 
 Welcome to my Github page
 
