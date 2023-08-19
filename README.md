@@ -10,7 +10,7 @@ Welcome to my Github page
 
 I'm currently a 2nd-yead student, majoring in Artificial Intelligence.
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/kodomotachi">
     <img
       src="https://github-readme-stats-63sy8pwun-kodomotachi.vercel.app/api?username=kodomotachi&show_icons=true&theme=github_dark&count_private=true"
@@ -24,7 +24,7 @@ I'm currently a 2nd-yead student, majoring in Artificial Intelligence.
       alt="kodomotachi's most used language"
     />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/kodomotachi" target="_blank">
