@@ -4,11 +4,11 @@
 
 <h2 align="center">Just junior developer's Github profile</h2>
 
-### Hi there
+### Hi there!
 
 Welcome to my Github page
 
-I'm currently a 2nd-year student, majoring in Artificial Intelligence. I like solving Competitive Programming, and develop something about mobile app, website or something...
+I'm currently a 2nd-year student, majoring in Artificial Intelligence. I like solving Competitive Programming, and develop something about mobile app, website...
 
 <!-- <p align="center">
   <a href="https://github.com/kodomotachi">
@@ -49,5 +49,11 @@ I'm currently a 2nd-year student, majoring in Artificial Intelligence. I like so
     <img
       src="https://img.shields.io/badge/Facebook-3982E4?style=for-the-badge&logo=facebook&logoColor=white"
     />
+  </a>
+
+  <a href="https://codeforces.com/profile/kodomo_tachi" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Codeforces-FFFFFF?style=for-the-badge&logo=codeforces&logoColor=white"
+    >
   </a>
 </p>
