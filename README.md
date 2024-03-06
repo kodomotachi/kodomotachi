@@ -53,7 +53,7 @@ I'm currently a 2nd-year student, majoring in Artificial Intelligence. I like so
 
   <a href="https://codeforces.com/profile/kodomo_tachi" target="_blank">
     <img
-      src="https://img.shields.io/badge/Codeforces-FFFFFF?style=for-the-badge&logo=codeforces&logoColor=white"
+      src="https://img.shields.io/badge/Codeforces-FFFFFF?style=for-the-badge&logo=codeforces&logoColor=black"
     >
   </a>
 </p>
