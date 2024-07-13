@@ -8,7 +8,7 @@
 
 Welcome to my Github page
 
-I'm currently a 2nd-year student, majoring in Artificial Intelligence. I like solving Competitive Programming, and develop something about mobile app, website...
+I'm currently a 3rd-year student, majoring in Artificial Intelligence. I like solving Competitive Programming and researching something other.
 
 <!-- <p align="center">
   <a href="https://github.com/kodomotachi">
